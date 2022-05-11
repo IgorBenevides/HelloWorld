@@ -1,0 +1,7 @@
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\obj\Debug\Operadorlogico.csproj.AssemblyReference.cache
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\obj\Debug\Operadorlogico.csproj.CoreCompileInputs.cache
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\bin\Debug\Operadorlogico.exe.config
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\bin\Debug\Operadorlogico.exe
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\bin\Debug\Operadorlogico.pdb
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\obj\Debug\Operadorlogico.exe
+C:\Users\igor_\source\repos\HelloWorld\Operadorlogico\obj\Debug\Operadorlogico.pdb

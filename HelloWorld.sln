@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{4A579B8E-5A26-42C9-9BAF-D7557B2DBEBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estudos", "HelloWorld\estudos.csproj", "{4A579B8E-5A26-42C9-9BAF-D7557B2DBEBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "condicionais", "condicionais\condicionais.csproj", "{737FCFB4-87D8-435B-A30E-67260FEBEA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadorlogico", "Operadorlogico\operadorlogico.csproj", "{BD2AAEC2-B99D-42FE-904E-0A3C21C1C768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4A579B8E-5A26-42C9-9BAF-D7557B2DBEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A579B8E-5A26-42C9-9BAF-D7557B2DBEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A579B8E-5A26-42C9-9BAF-D7557B2DBEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737FCFB4-87D8-435B-A30E-67260FEBEA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737FCFB4-87D8-435B-A30E-67260FEBEA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737FCFB4-87D8-435B-A30E-67260FEBEA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737FCFB4-87D8-435B-A30E-67260FEBEA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2AAEC2-B99D-42FE-904E-0A3C21C1C768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2AAEC2-B99D-42FE-904E-0A3C21C1C768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2AAEC2-B99D-42FE-904E-0A3C21C1C768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2AAEC2-B99D-42FE-904E-0A3C21C1C768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

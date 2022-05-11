@@ -1,0 +1,7 @@
+C:\Users\igor_\source\repos\HelloWorld\Constante\bin\Debug\Constante.exe.config
+C:\Users\igor_\source\repos\HelloWorld\Constante\bin\Debug\Constante.exe
+C:\Users\igor_\source\repos\HelloWorld\Constante\bin\Debug\Constante.pdb
+C:\Users\igor_\source\repos\HelloWorld\Constante\obj\Debug\Constante.csproj.AssemblyReference.cache
+C:\Users\igor_\source\repos\HelloWorld\Constante\obj\Debug\Constante.csproj.CoreCompileInputs.cache
+C:\Users\igor_\source\repos\HelloWorld\Constante\obj\Debug\Constante.exe
+C:\Users\igor_\source\repos\HelloWorld\Constante\obj\Debug\Constante.pdb

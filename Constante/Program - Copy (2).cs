@@ -4,20 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace Constante
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            // int - -156 como 333545
-            // Float -
-
-
-            Console.WriteLine("Hello World!");
-
-            Console.WriteLine("Zelhao babaca");
+            string nome = "";
+            Console.WriteLine("Escreva seu nome: ");
+            nome = Console.ReadLine();
+            Console.Write("Seu nome é: ");
+            Console.WriteLine(nome);
 
             Console.ReadLine();
         }

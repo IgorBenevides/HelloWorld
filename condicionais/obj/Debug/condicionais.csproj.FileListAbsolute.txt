@@ -1,0 +1,7 @@
+C:\Users\igor_\source\repos\HelloWorld\condicionais\bin\Debug\condicionais.exe.config
+C:\Users\igor_\source\repos\HelloWorld\condicionais\bin\Debug\condicionais.exe
+C:\Users\igor_\source\repos\HelloWorld\condicionais\bin\Debug\condicionais.pdb
+C:\Users\igor_\source\repos\HelloWorld\condicionais\obj\Debug\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\igor_\source\repos\HelloWorld\condicionais\obj\Debug\condicionais.exe
+C:\Users\igor_\source\repos\HelloWorld\condicionais\obj\Debug\condicionais.pdb
+C:\Users\igor_\source\repos\HelloWorld\condicionais\obj\Debug\condicionais.csproj.AssemblyReference.cache
